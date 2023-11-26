@@ -1,0 +1,18 @@
+version: '3'
+services:
+  consul:
+    image: consul:latest
+    ports:
+      - "8500:8500" # Web UI
+      - "8600:8600/udp" # DNS
+      - "8300:8300" # RPC
+      - "8301:8301" # Serf LAN
+      - "8302:8302" # Serf WAN
+    volumes:
+      - ./consul-data:/consul/data # Persist data
+    command: "agent -server -ui -bootstrap-expect=1 -client=0.0.0.0"
+
+networks:
+  default:
+    external:
+      name: consul-net

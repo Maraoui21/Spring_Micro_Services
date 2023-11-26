@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/DEVOIR 1 KAFKA + ZOOKEEPER/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DEVOIR 1 KAFKA + ZOOKEEPER/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DEVOIR 2 Micro-services/billing-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DEVOIR 2 Micro-services/billing-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DEVOIR 2 Micro-services/config-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DEVOIR 2 Micro-services/config-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DEVOIR 2 Micro-services/customer-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DEVOIR 2 Micro-services/customer-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DEVOIR 2 Micro-services/discovery/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DEVOIR 2 Micro-services/discovery/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DEVOIR 2 Micro-services/gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DEVOIR 2 Micro-services/gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DEVOIR 2 Micro-services/inventory-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DEVOIR 2 Micro-services/inventory-service/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

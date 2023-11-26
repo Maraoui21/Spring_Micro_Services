@@ -1,0 +1,4 @@
+spring.cloud.vault.token=YOUR_TOKEN_HERE
+spring.cloud.vault.scheme=http
+spring.cloud.vault.kv.enabled=true
+spring.config.import=optional:consul:, vault:// 
